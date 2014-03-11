@@ -1,3 +1,8 @@
+# Usage:
+# gem install serialport
+# ruby console.rb
+#
+
 require 'rubygems'
 require 'serialport'
 
